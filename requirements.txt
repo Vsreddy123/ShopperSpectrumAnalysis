@@ -23,6 +23,7 @@ typing-extensions==4.4.0
 tzdata==2022.6
 urllib3==1.26.12
 watchdog==2.1.9
+IPython
 
 # The dependency that caused the error
 joblib==1.2.0
