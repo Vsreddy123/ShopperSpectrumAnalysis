@@ -53,3 +53,10 @@ scikit-learn
 # Other potentially useful libraries that are common in data apps
 # You might need to add or remove these based on your actual code
 plotly
+
+streamlit
+pandas
+numpy
+IPython
+nbformat
+# ... any other libraries your app uses
