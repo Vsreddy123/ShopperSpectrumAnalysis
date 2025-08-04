@@ -47,6 +47,14 @@ pydeck
 matplotlib
 joblib
 
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+altair==4.2.0
+matplotlib==3.6.2
+
 # The dependency causing the current error
 scikit-learn
 
